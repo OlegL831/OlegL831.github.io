@@ -1,0 +1,40 @@
+body p {
+    font-size: 11px;
+}
+
+.h1 {
+    color: red;
+}
+
+.block {
+    display: block;
+    background: blue;
+    font-size: 15px;
+    color: #fff;
+    width: 100px;
+    margin-bottom: 100px;
+}
+
+.h2 {
+    color: #fff;
+    background: green;
+    padding: 5px;
+}
+span {
+    color: red;
+}
+
+.h2big {
+    color: white;
+    background: green;
+    padding: 40px;
+}
+
+.center {
+    padding-left: 120px;
+}
+
+ul li {
+    border: 1px solid;
+    font-size: 25px;
+}
